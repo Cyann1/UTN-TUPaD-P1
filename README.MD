@@ -3,8 +3,8 @@
 📍 *Universidad Tecnológica Nacional*  
 
 ## ✨ Estudiante  
-- **Nombre:** Luna, Gonzalo Nicolas *[Modificar con su nombre completo]*  
-- **Comisión:** M2025-3 *[Modificar con su comisión, donde 7 es el número de comisión]*  
+- **Nombre:** Luna, Gonzalo Nicolas  
+- **Comisión:** M2025-3   
 
 ## 📂 Descripción del Repositorio  
 Este repositorio almacena todas los trabajos prácticos realizados durante la cursada de **Programación 1**.  
