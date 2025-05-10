@@ -1,0 +1,5 @@
+numero = input("Ingresa un número: ")
+
+invertedNum = numero[::-1]
+
+print("El numero invertido es:", invertedNum)
